@@ -1,5 +1,5 @@
 class AppLocalKey {
-    static const String validatePhoneEmpty = 'validatePhoneEmpty';
+  static const String validatePhoneEmpty = 'validatePhoneEmpty';
   static const String validatePhoneStartValidator =
       'validatePhoneStartValidator';
   static const String validatePhoneValidator = 'validatePhoneValidator';
