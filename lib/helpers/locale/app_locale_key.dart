@@ -9,4 +9,8 @@ class AppLocalKey {
   static const String validateFieldRequired = 'validateFieldRequired';
   static const String validateEmail = 'validateEmail';
   static const String validateNameLength = 'validateNameLength';
+  static const String email = 'email';
+  static const String passWord = 'passWord';
+  static const String loginIn = 'loginIn';
+  static const String createAccount = 'createAccount';
 }

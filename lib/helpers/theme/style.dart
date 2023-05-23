@@ -33,90 +33,79 @@ const TextStyle buttonStyle = TextStyle(
   fontWeight: FontWeight.w600,
   color: mainColor,
 );
-const TextStyle loginText = TextStyle(
-  fontSize: 30,
-  fontWeight: FontWeight.w700,
-  color: whiteColor,
-);
-const TextStyle labelText = TextStyle(
-  fontSize: 20,
-  fontWeight: FontWeight.bold,
-  color: textColor,
+const TextStyle textFormFieldStyle = TextStyle(
+  fontSize: 14,
+  fontWeight: FontWeight.w400,
+  color: borderColor,
 );
 
-const TextStyle text20RG = TextStyle(
-  fontSize: 20,
-  fontWeight: FontWeight.w100,
-  color: textGreyColor,
-);
-const TextStyle text20MM = TextStyle(
-  fontSize: 20,
+const TextStyle labelFieldStyle = TextStyle(
+  fontSize: 15,
   fontWeight: FontWeight.w400,
-  color: mainColor,
+  color: darkgreyColor,
 );
-const TextStyle formTitleStyle = TextStyle(
-  fontSize: 16,
-  fontWeight: FontWeight.w500,
+const TextStyle textTimeStyle = TextStyle(
+  fontSize: 15,
+  fontWeight: FontWeight.w700,
   color: blackColor,
 );
-const TextStyle text16MM = TextStyle(
-  fontSize: 16,
+const TextStyle textB20B = TextStyle(
+  fontSize: 20,
   fontWeight: FontWeight.w700,
-  color: mainColor,
+  color: blackColor,
 );
-const TextStyle labelInfoText = TextStyle(
-  fontSize: 15,
+const TextStyle textS18B = TextStyle(
+  fontSize: 18,
   fontWeight: FontWeight.w700,
-  color: mainColor,
+  color: secondColor,
 );
-const TextStyle text15Bh = TextStyle(
-  fontSize: 15,
-  fontWeight: FontWeight.bold,
-  color: hintColor,
-);
-const TextStyle text15RM = TextStyle(
-  fontSize: 15,
-  fontWeight: FontWeight.w100,
-  color: mainColor,
-);
-const TextStyle text15Mh = TextStyle(
-  fontSize: 15,
-  fontWeight: FontWeight.w700,
-  color: hintColor,
-);
-const TextStyle text15MM = TextStyle(
-  fontSize: 15,
-  fontWeight: FontWeight.w700,
-  color: mainColor,
-);
-const TextStyle hintStyle = TextStyle(
-  fontSize: 14,
+const TextStyle textG17R = TextStyle(
+  fontSize: 17,
   fontWeight: FontWeight.w400,
-  color: hintColor,
+  color: greyColor,
+);
+const TextStyle textW17SB = TextStyle(
+  fontSize: 17,
+  fontWeight: FontWeight.w600,
+  color: whiteColor,
+);
+const TextStyle textP16R = TextStyle(
+  fontSize: 16,
+  fontWeight: FontWeight.w400,
+  color: preTextColor,
+);
+const TextStyle textB15R = TextStyle(
+  fontSize: 15,
+  fontWeight: FontWeight.w400,
+  color: blackColor,
+);
+const TextStyle textS15SB = TextStyle(
+  fontSize: 15,
+  fontWeight: FontWeight.w600,
+  color: secondColor,
+);
+const TextStyle textB14SB = TextStyle(
+  fontSize: 14,
+  fontWeight: FontWeight.w600,
+  color: blackColor,
+);
+const TextStyle textWG14SR = TextStyle(
+  fontSize: 13,
+  fontWeight: FontWeight.w400,
+  color: weakGreyColor,
+);
+const TextStyle textNavigatorBar = TextStyle(
+  fontSize: 12,
+  fontWeight: FontWeight.w500,
 );
 
-const TextStyle textFormStyle = TextStyle(
-  fontSize: 14,
-  fontWeight: FontWeight.w500,
-  color: mainColor,
-);
-const TextStyle text13RT = TextStyle(
-  fontSize: 13,
-  fontWeight: FontWeight.w300,
-  color: textGreyColor,
-);
-const TextStyle text12RT = TextStyle(
-  fontSize: 12,
-  fontWeight: FontWeight.w100,
-  color: textGreyColor,
-);
-const TextStyle text12MT = TextStyle(
-  fontSize: 12,
-  fontWeight: FontWeight.w700,
-  color:textGreyColor,
-);
 const TextStyle textS12R = TextStyle(
   fontSize: 12,
   fontWeight: FontWeight.w400,
   color: secondColor,
+);
+const TextStyle textEG10R = TextStyle(
+  fontSize: 10,
+  fontWeight: FontWeight.w400,
+  color: extraGreyColor,
 );

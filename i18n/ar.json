@@ -8,5 +8,12 @@
     "validateFieldRequired":"هذا الحقل مطلوب.",
     "validateEmail":"البريد الالكتروني غير صحيح.",
     "validateNameLength":"الاسم يجب ان يكون بين 3-30",
-    "validateUpperPass":"يجب أن تحتوي كلمة المرور على حرف واحد كبير وحرف صغير واحد على الأقل."
+    "validateUpperPass":"يجب أن تحتوي كلمة المرور على حرف واحد كبير وحرف صغير واحد على الأقل.",
+    "loginIn":"تسجيل الدخول",
+    "createAccount":"انشاء حساب",
+    "email":"البريد الالكتروني",
+    "passWord":"كلمة المرور",
+    "haveAnAccount":"هل ليس لديك حساب ؟",
+    "name":"الاسم",
+    "mobileNumber":"رقم الجوال"
 }
